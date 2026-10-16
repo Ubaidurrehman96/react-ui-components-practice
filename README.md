@@ -9,4 +9,4 @@ A collection of mini UI projects built with React JS and Tailwind CSS to practic
 - Vite
 
 ## 🌐 Live Demo
-[View Live Project]https://react-ui-components-practice.netlify.app/
+View Live Project:  https://react-ui-components-practice.netlify.app/
